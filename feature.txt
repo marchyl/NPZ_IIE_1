@@ -3,3 +3,4 @@ poprawka hotfix prod sie pali aaaaa
 linia 2
 linia 3
 Funkcjonalność w branchu feature.
+Zakończenie funkcjonalności feature.
